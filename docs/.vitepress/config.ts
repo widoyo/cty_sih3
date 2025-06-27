@@ -25,7 +25,14 @@ export default defineConfig({
           { text: 'Prakiraan Cuaca', link: '/prakiraan' }
         ],
       },
-      { text: 'Example', link: '/example' },
+      {
+        text: 'Hidro Geologi',
+        items: [
+          { text: 'Muka Air Tanah', link: '/muka-air-tanah' },
+          { text: 'Sumur Pantau', link: '/sumur-pantau' },
+        ],
+     },
+     { text: 'Example', link: '/example' },
 
 
       // ...
