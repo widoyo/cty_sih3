@@ -8,5 +8,9 @@
   },
   "devDependencies": {
     "vitepress": "latest"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.fullscreen": "^4.0.0"
   }
 }

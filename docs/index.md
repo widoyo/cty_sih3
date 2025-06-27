@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: SIH3 BBWS Citanduy
+  text: Sistem Informasi Hidrologi, Hidro Meteorologi, Hidro Geologi
+  tagline: Dapatkan informasi H3 pada Wilayah Sungai Citanduy
   actions:
     - theme: brand
       text: Get Started
